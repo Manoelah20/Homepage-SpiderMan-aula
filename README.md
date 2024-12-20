@@ -1,5 +1,5 @@
-# Homepage-SpiderMan-aula
-projeto aula SM
+# Homepage-SpiderMan-aula ....Em produção ainda.....
+
 # Spiderman | Multiverso
 
 Este é um projeto de clone da interface do Spiderman Multiverso, desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto é praticar e demonstrar habilidades em desenvolvimento web front-end.
